@@ -306,7 +306,7 @@ I used the following Ubuntu deb packages to test this program.
 85  |Icon                        |icont, iconx                      |9.4.3-7ubuntu1
 86  |INTERCAL                    |intercal                          |30:0.30-3
 87  |Jasmin                      |jasmin-sable                      |2.5.0-2
-88  |Java                        |openjdk-11-jdk                    |11.0.16+8-0ubuntu1
+88  |Java                        |openjdk-11-jdk                    |11.0.17+8-1ubuntu2
 89  |JavaScript                  |nodejs                            |18.7.0+dfsg-5ubuntu1
 90  |Jq                          |jq                                |1.6-2.1ubuntu3
 91  |JSFuck                      |nodejs                            |18.7.0+dfsg-5ubuntu1
@@ -334,7 +334,7 @@ I used the following Ubuntu deb packages to test this program.
 113 |PARI/GP                     |pari-gp                           |2.13.4-1
 114 |Parser 3                    |parser3-cgi                       |3.4.6-3
 115 |Pascal                      |fp-compiler                       |3.2.2+dfsg-15ubuntu1
-116 |Perl 5                      |perl                              |5.34.0-5ubuntu1
+116 |Perl 5                      |perl                              |5.34.0-5ubuntu1.1
 117 |Perl 6                      |rakudo                            |2022.04-2
 118 |PHP                         |php-cli                           |2:8.1+92ubuntu1
 119 |Piet                        |*N/A*                             |-
